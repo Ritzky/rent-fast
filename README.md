@@ -12,3 +12,7 @@ Aims:
 The backend will be made using convex this includes auth/databases and the ai search for maintenance workers
 
 The front end will be made using reactjs
+
+npx convex dev
+
+npm run dev
